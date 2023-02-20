@@ -22,3 +22,7 @@ How to use my code in your project?
                                     "VCC" with "5v or 3.3 v".
                                     "gnd" with "GND"
                                      and others A0 and A1.
+                                     
+                                     
+                                     
+video link : https://drive.google.com/file/d/1s7XkUUYxKqwYFPAnoN1Efh2vEghv2UEe/view?usp=sharing
